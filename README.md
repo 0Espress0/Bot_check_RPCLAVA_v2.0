@@ -8,15 +8,17 @@
 7. การทำงานแบบวนรอบ: โค้ดจะทำงานแบบวนรอบโดยรอบทุก ๆ 10 วินาทีเพื่อตรวจสอบสถานะของโหนดและยอดคงเหลือในวอลเล็ต.
 --------------------------------------------------
 เตรียมความพร้อม
-1. ติดตั้ง Python version 3 ขึ้นไป
-   >> sudo apt update
-   >> sudo apt install python3 -y
-3. ติดตั้ง Module Web3
-   >> sudo apt update
-   >> sudo apt install python3 -y
-   >> pip3  install numpy
-   >> 2.4. sudo apt install python3-pip -y
-   >> 2.5. pip install web3
+
+ติดตั้ง Python version 3 ขึ้นไป
+1. sudo apt update
+2. sudo apt install python3 -y
+   
+ติดตั้ง Module Web3
+1. sudo apt update
+2. sudo apt install python3 -y
+3. pip3  install numpy
+4. sudo apt install python3-pip -y
+5. pip install web3
 
 ขั้นตอนการใช้งาน
 1. ทำการเพ่ิม RPC LAVA ของตัวเองในไฟล์ rpc_endpoint.txt
