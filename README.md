@@ -21,7 +21,7 @@
 5. pip install web3
 
 ขั้นตอนการใช้งาน
-1. ทำการเพ่ิม RPC LAVA ของตัวเองในไฟล์ rpc_endpoint.txt
+1. ทำการเพิ่ม RPC LAVA ของตัวเองในไฟล์ rpc_endpoint.txt
 2. ทำการเพิ่ม Private kry wallet (EVM Chain) ไปที่ไฟล์ private_key.txt
 3. หลักจากติดตั้งเรียบร้อยให้ทำการรัน command >>python3 Bot_LAVA_PKWv2.py
 *** ไฟล์ ฺBot_LAVA_PKWv2.py, private_key.txt & rpc_endpoint.txt จะต้องอยู่ใน folder เดียวกัน ***
