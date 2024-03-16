@@ -16,8 +16,8 @@
 ติดตั้ง Module Web3
 1. sudo apt update
 2. sudo apt install python3 -y
-3. pip3  install numpy
-4. sudo apt install python3-pip -y
+3. sudo apt install python3-pip -y
+4. pip3 install numpy
 5. pip install web3
 
 ขั้นตอนการใช้งาน
