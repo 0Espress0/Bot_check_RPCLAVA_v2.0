@@ -18,7 +18,7 @@
 2. sudo apt install python3 -y
 3. sudo apt install python3-pip -y
 4. pip3 install numpy
-5. pip install web3
+5. pip3 install web3
 
 ขั้นตอนการใช้งาน
 1. ทำการเพิ่ม RPC LAVA ของตัวเองในไฟล์ rpc_endpoint.txt
