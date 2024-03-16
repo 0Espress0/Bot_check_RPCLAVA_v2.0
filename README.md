@@ -10,6 +10,11 @@
 เตรียมความพร้อม
 1. ติดตั้ง Python version 3 ขึ้นไป
 2. ติดตั้ง Module Web3 >>command : pip3 install web3
+   2.1. sudo apt update
+   2.2. sudo apt install python3 -y
+   2.3. pip3  install numpy
+   2.4. sudo apt install python3-pip -y
+   2.5. pip install web3
 
 ขั้นตอนการใช้งาน
 1. ทำการเพ่ิม RPC LAVA ของตัวเองในไฟล์ rpc_endpoint.txt
